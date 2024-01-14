@@ -1,2 +1,1 @@
-#sample file
-#put request
+#This file contains all the details of modules to be developed as part of this project
